@@ -33,4 +33,4 @@ http://localhost:3000
 This API is deployed at:   https://back0.vercel.app.
 
 ### More Node.js Developers
-Looking to hire  👉 [[Node.js Developers](hng.tech/hire/nodejs-developers)]
+Looking to hire  👉 [[Node.js Developers](https://hng.tech/hire/nodejs-developers)]
