@@ -9,7 +9,7 @@ app.get("/", (req, res) => {
         res.json({
             email: "ajaiyeobajibola@gmail.com",
             current_datetime: new Date().toISOString(),
-            github_url: "https://github.com/theNubiadev/back0.git"
+            github_url: "https://github.com/theNubiadev/back0"
         });
     });
 
