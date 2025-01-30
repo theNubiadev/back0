@@ -10,7 +10,7 @@ This is a simple public API that returns basic user information in JSON format.
   "github_url": "https://github.com/"
 }-->
 ## Response Format
-```json{
+```json {
   "email": "ajaiyeobajibola@gmail.com",
   "current_datetime": "2025-01-30T13:17:26.188Z",
   "github_url": "https://github.com/"
